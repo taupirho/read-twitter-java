@@ -47,3 +47,5 @@ need to start creating twitter apps.
 
 In the included JAVA program file my twitter credentials have been starred out for security reasons. Put your own codes in their place.
 
+Remember, the code will only work if the user you’re sending the message to is a follower of you or their account is set up to 
+allow anyone to direct message them. 
